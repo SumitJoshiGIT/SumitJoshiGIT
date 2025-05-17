@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitgoodman-git" alt="gitgoodman-git" /></a> </p>
 
-- 🔭 I’m currently working on **web and android**
+- 🔭 I’m currently working on **Deep Learning Models**
 
-- 🌱 I’m currently learning **React Native and TS**
+- 🌱 I’m currently learning **ComputerVision**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development and Machine Learning**
 
 - 📫 How to reach me **ucss.sumitjoshi@gmail.com**
 
