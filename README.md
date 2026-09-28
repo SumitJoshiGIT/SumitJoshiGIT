@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web development and Machine Learning**
 
-- 📫 How to reach me **ucss.sumitjoshi@gmail.com**
+- 📫 How to reach me **git.sumitjoshi@gmail.com**
 
 - ⚡ Fun fact **GitHub was originally a side project.**
 
