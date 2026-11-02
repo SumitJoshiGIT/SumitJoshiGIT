@@ -1,32 +1,56 @@
-<h1 align="center">Hi 👋, I'm Sumit Joshi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<img src="assets/hero.svg" width="100%" alt="Sumit Joshi: full-stack, AI/ML and systems engineer" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitgoodman-git&label=Profile%20views&color=0e75b6&style=flat" alt="gitgoodman-git" /> </p>
+# Sumit Joshi: Full-Stack, AI/ML and Systems Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitgoodman-git" alt="gitgoodman-git" /></a> </p>
+Software engineer from Dehradun, India, and a B.Tech Computer Science (AI & ML) student at Graphic Era Hill University, class of 2027. I build production-style web applications, real-time systems and RAG pipelines, and I'm working my way down the stack with a C++ web server written from scratch.
 
-- 🔭 I’m currently working on **Deep Learning Models**
+[Portfolio](https://portfolio.sumit99k.tech/) | [LinkedIn](https://www.linkedin.com/in/sumitjoshi99k/) | [Email](mailto:git.sumitjoshi@gmail.com)
 
-- 🌱 I’m currently learning **ComputerVision**
+## Contribution activity
 
-- 👯 I’m looking to collaborate on **anything**
+<img src="assets/contributions.svg" width="100%" alt="Thermal heatmap of GitHub contributions over the last 12 months, with a weekly activity waveform and streak statistics" />
 
-- 💬 Ask me about **Web development and Machine Learning**
+<!-- stats:start -->
+**317** contributions in the last 12 months, **685** since 2023, across **47** active days in the last year. Longest streak: **6** days. Top language: **TypeScript**.
+<!-- stats:end -->
 
-- 📫 How to reach me **git.sumitjoshi@gmail.com**
+## Projects
 
-- ⚡ Fun fact **GitHub was originally a side project.**
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [Pacer](https://github.com/SumitJoshiGIT/Pacer-preview) ([live](https://apps.pacer.sumit99k.tech)) | Codebase intelligence platform with a RAG bot that gives cited answers, ownership graphs and technical debt heatmaps, ingesting 500+ webhooks/min | Next.js, NestJS, PostgreSQL, pgvector, BullMQ |
+| Nox (in progress) | Dependency-free HTTP server, reverse proxy and load balancer | C++20, POSIX sockets |
+| [Maestro](https://github.com/SumitJoshiGIT/Chess) | Multiplayer chess platform with matchmaking and live board synchronization | Next.js, TypeScript, PostgreSQL, Socket.io |
+| Hellum | Autonomous campus tour robot with sensor fusion, 95% obstacle avoidance accuracy and RAG answers to location queries in under 2 seconds | Python, Raspberry Pi, Pinecone, Gemini API |
+| [Lavender](https://github.com/SumitJoshiGIT/cozy-chatroom-MERN) ([live](https://apps.lavender.sumit99k.tech)) | Real-time chat application with JWT authentication, supporting 50+ concurrent connections | MongoDB, Express.js, React, Node.js, Socket.io |
+| [E2EE Chat](https://github.com/SumitJoshiGIT/E2EE_CHAT) | End-to-end encrypted messaging using the Signal Protocol | Java, JavaFX, Spring Boot, MongoDB |
+| [Distributed Task Runner](https://github.com/SumitJoshiGIT/distributed_task_runner) | Credit-based marketplace where distributed workers claim and process data chunks | React, TypeScript, Express.js |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<img src="assets/stack.svg" width="100%" alt="Skills arranged by abstraction layer, from user interfaces down to hardware" />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SumitJoshiGIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SumitJoshiGIT&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitJoshiGIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<details>
+<summary>Skills as text</summary>
+
+- **Languages:** Python, TypeScript, JavaScript, C, C++, Java, SQL
+- **Frontend:** React, Next.js, Tailwind CSS, responsive UI
+- **Backend:** Node.js, NestJS, Express.js, FastAPI, Django, Socket.io, REST APIs, WebSockets
+- **AI and machine learning:** PyTorch, TensorFlow, scikit-learn, RAG pipelines, vector search, computer vision, YOLO, Gemini API
+- **Data:** PostgreSQL, pgvector, MongoDB, Redis, Pinecone, BullMQ
+- **Platform and testing:** Linux, Docker, GitHub Actions, CI/CD, AWS EC2, Playwright, Selenium
+- **Systems and hardware:** POSIX sockets, threads, epoll, Raspberry Pi, Arduino, Edge AI
+
+</details>
+
+<img src="assets/languages.svg" width="100%" alt="Most used programming languages across public repositories, by bytes of code" />
+
+## Research and achievements
+
+- Published research paper (2025): *V-IPDS: Vision-based Insect Predator Detection for Beehive Monitoring using YOLOv11n*
+- IEEE Matrix Hackathon finalist (2025): led a 4-member team to the finals
+- Graphethon 2.0 finalist (2024): national-level hackathon with 500+ participants
 
 ---
+
+Visuals are generated daily by [`scripts/generate.py`](scripts/generate.py) from public GitHub data.

@@ -1,0 +1,29 @@
+name: Refresh profile visuals
+
+on:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/**"]
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Render SVGs and stats
+        run: python3 scripts/generate.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets README.md
+          git diff --cached --quiet || git commit -m "Refresh profile visuals"
+          git push
