@@ -1,6 +1,6 @@
 <img src="assets/hero.svg" width="100%" alt="Sumit Joshi: full-stack, AI/ML and systems engineer" />
 
-# Sumit Joshi: Full-Stack, AI/ML and Systems Engineer
+# Sumit Joshi: Software Developer
 
 Software engineer from Dehradun, India, and a B.Tech Computer Science (AI & ML) student at Graphic Era Hill University, class of 2027. I build production-style web applications, real-time systems and RAG pipelines, and I'm working my way down the stack with a C++ web server written from scratch.
 
