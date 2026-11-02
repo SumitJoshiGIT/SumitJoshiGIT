@@ -1,10 +1,11 @@
 {
   "TypeScript": 1843594,
   "JavaScript": 1205011,
-  "Python": 487281,
+  "Python": 502890,
   "Java": 384853,
   "CSS": 181383,
   "PLpgSQL": 36133,
   "Shell": 18177,
-  "Dockerfile": 4162
+  "Dockerfile": 4563,
+  "TeX": 798
 }
