@@ -22,7 +22,7 @@ Software engineer from Dehradun, India, and a B.Tech Computer Science (AI & ML) 
 | Nox (in progress) | Dependency-free HTTP server, reverse proxy and load balancer | C++20, POSIX sockets |
 | [Maestro](https://github.com/SumitJoshiGIT/Chess) | Multiplayer chess platform with matchmaking and live board synchronization | Next.js, TypeScript, PostgreSQL, Socket.io |
 | Hellum | Autonomous campus tour robot with sensor fusion, 95% obstacle avoidance accuracy and RAG answers to location queries in under 2 seconds | Python, Raspberry Pi, Pinecone, Gemini API |
-| [Lavender](https://github.com/SumitJoshiGIT/cozy-chatroom-MERN) ([live](https://apps.lavender.sumit99k.tech)) | Real-time chat application with JWT authentication, supporting 50+ concurrent connections | MongoDB, Express.js, React, Node.js, Socket.io |
+| [Lavender](https://github.com/SumitJoshiGIT/cozy-chatroom-MERN) ([live](https://apps.lavender.sumit99k.tech)) | Real-time chat application with JWT authentication, load-tested to 8,000 concurrent WebSocket connections | MongoDB, Express.js, React, Node.js, Socket.io |
 | [E2EE Chat](https://github.com/SumitJoshiGIT/E2EE_CHAT) | End-to-end encrypted messaging using the Signal Protocol | Java, JavaFX, Spring Boot, MongoDB |
 | [Distributed Task Runner](https://github.com/SumitJoshiGIT/distributed_task_runner) | Credit-based marketplace where distributed workers claim and process data chunks | React, TypeScript, Express.js |
 
