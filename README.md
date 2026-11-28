@@ -11,7 +11,7 @@ Software engineer from Dehradun, India, and a B.Tech Computer Science (AI & ML) 
 <img src="assets/contributions.svg" width="100%" alt="Thermal heatmap of GitHub contributions over the last 12 months, with a weekly activity waveform and streak statistics" />
 
 <!-- stats:start -->
-**577** contributions in the last 12 months, **977** since 2023, across **60** active days in the last year. Longest streak: **8** days. Top language: **TypeScript**.
+**679** contributions in the last 12 months, **1,079** since 2023, across **64** active days in the last year. Longest streak: **12** days. Top language: **TypeScript**.
 <!-- stats:end -->
 
 ## Projects
